@@ -1,14 +1,10 @@
-<p >
+<p>
     <img id="preview" src="https://komarev.com/ghpvc/?username=MohammadShehadeh&color=c69749">
 </p>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:c69749,25:c69749,75:c69749,100:c69749&height=250&section=header&text=Mohammad%20Shehadeh%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20FE%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff)
 
 <p align="center">
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Friend!&font=Fira%20Code&color=%23c69749&center=true&width=200&height=50">
 </p>
-
-
 
 <details open>
   <summary><h2>📘 Open Source Projects</h2></summary>
